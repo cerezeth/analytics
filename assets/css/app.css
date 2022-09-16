@@ -388,3 +388,6 @@ iframe[hidden] {
   content: '';
   transform: rotate(45deg) translateY(1px);
 }
+.stats-item{
+  display:none !important;
+}
